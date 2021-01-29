@@ -1,0 +1,19 @@
+{
+  "name": "rule_validation_api",
+  "version": "1.0.0",
+  "description": "Coding test for NodeJS Backend Engineer (FullTime) role with Flutterwave",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evansinho/Rule_validation_API.git"
+  },
+  "author": "Evanson Igiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evansinho/Rule_validation_API/issues"
+  },
+  "homepage": "https://github.com/evansinho/Rule_validation_API#readme"
+}
