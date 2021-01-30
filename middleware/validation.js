@@ -1,23 +1,4 @@
 const validateRule = (req, res, next) => {
-  // function IsJsonString(str) {
-  //   try {
-  //       JSON.parse(str);
-  //   } catch (e) {
-  //       return false;
-  //   }
-  //   return true;
-  // }
-
-  // if (IsJsonString(req.body) === false) {
-  //   return res
-  //   .status(400)
-  //   .json({
-  //     message: "Invalid JSON payload passed.",
-  //     status: "error",
-  //     data: null,
-  //   })
-  // }
-
   const {rule, data} = req.body;
 
   function isObject (item) {
